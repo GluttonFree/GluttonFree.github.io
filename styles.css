@@ -18,6 +18,7 @@ a:hover{
   margin: 10px;
   padding: 10px;
   display: flex;
+  border-radius: 20px
 }
 .assign img {
   width: 200px;
