@@ -6,6 +6,10 @@ h1 {
   color: darkslateblue;
   text-align: center;
 }
+a {
+  text-decoration: none;
+  color: #330066;
+}
 .assign {
   background-color: burlywood;
   margin: 10px;
